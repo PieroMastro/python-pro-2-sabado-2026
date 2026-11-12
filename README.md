@@ -1,4 +1,4 @@
-# 🐍 Python Pro 2 — Cohorte SSábado (2026-2027)
+# 🐍 Python Pro 2 — Cohorte Sábado (2026-2027)
 
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Windows%20%7C%20macOS-lightgrey)
